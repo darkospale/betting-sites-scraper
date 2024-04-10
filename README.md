@@ -1,4 +1,4 @@
-# flashscore-webscraper
+# betting-sites-scraper
 
 Betting sites webscraper.
 
